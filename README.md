@@ -7,6 +7,8 @@ Repository for my wife's teaching resources.
 
 * 如何培养小学生良好的行为习惯 
 * 青少年早恋成因分析
+* 三严三实学习心得
+* 小学作文教学导引
 
 ## 语文资源
 
